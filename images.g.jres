@@ -44,11 +44,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage5"
     },
-    "image10": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAMzMzMwAAADADAAAAMwAAAwAAAAAAAwADAAAAAAADMAAAAAAAADAwAAAAAAAAMDAAAAAAAAAwMAAAAAAAADAwAAAAAAAAMDAAAAAAAAAwMAAAAAAAADAAAwAAAAAAAwADAAAAAAADADADAAAAMwAAADAzMzMAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage6"
-    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

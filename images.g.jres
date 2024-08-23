@@ -44,11 +44,10 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage3"
     },
-    "song1": {
-        "data": "00780004080200",
-        "mimeType": "application/mkcd-song",
-        "displayName": "mySong",
-        "namespace": "mySongs."
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAMzMzAwAAADAAAAAwAAAAAwAAAAADADAAAAAAADAAMAAAAAAAMAAwAAAAAAAwADAAAAAAADAAMAAAAAAAMAAwAAAAAAAwADAAAAAAADAAAAMAAAAAAwAAMAAAADAAAAAAMzMzAwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage6"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

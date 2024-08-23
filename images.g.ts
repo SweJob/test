@@ -174,6 +174,25 @@ namespace myImages {
 . . . . 3 3 3 3 3 3 3 3 3 . . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image10":
+            case "myImage6":return img`
+. . . . . . . . . . . . . . . . 
+. . . . 3 3 3 3 3 3 3 . . . . . 
+. . . 3 . . . . . . . 3 . . . . 
+. . 3 . . . . . . . . . 3 . . . 
+. 3 . . . . . . . . . . . 3 . . 
+. 3 . . . . . . . . . . . 3 . . 
+. 3 . . . . . . . . . . . 3 . . 
+. 3 . . . . . . . . . . . 3 . . 
+. 3 . . . . . . . . . . . 3 . . 
+. 3 . . . . . . . . . . . 3 . . 
+. 3 . . . . . . . . . . . 3 . . 
+. . 3 . . . . . . . . . 3 . . . 
+. . . 3 . . . . . . . 3 . . . . 
+. . . . 3 3 3 3 3 3 3 . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
         }
         return null;
     })
@@ -187,8 +206,7 @@ namespace myImages {
 
     helpers._registerFactory("song", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "song1":
-            case "mySong":return hex`00780004080200`;
+
         }
         return null;
     })

@@ -19,6 +19,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Player1"
     },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAgAAAAAAAAAgAAYAAgAAAAACBiACAAAAACAmIgAAAABmZiYAAAAAAAAgJgAAAAAAACJmAgAAAAAgAmYiAAAAACIAZiACAAAAAgBmAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "testsprite"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

@@ -24,5 +24,6 @@ let mySprite: Sprite = null
 mp.setPlayerState(mp.playerSelector(mp.PlayerNumber.One), MultiplayerState.score, 0)
 mySprite = sprites.create(assets.image`myImage3`, SpriteKind.Food)
 mySprite2 = sprites.create(assets.image`testsprite`, SpriteKind.Player)
-mySprite.setPosition(17, 18)
+mySprite.setPosition(randint(0, 120), randint(0, 90))
 controller.moveSprite(mySprite2, 100, 100)
+mySprite2.setStayInScreen(true)

@@ -2,7 +2,8 @@
     "name": "hackathon-2024-my-name-is-jonas",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "multiplayer": "*"
     },
     "files": [
         "main.blocks",

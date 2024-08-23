@@ -1,5 +1,6 @@
 {
     "name": "hackathon-2024-my-name-is-jonas",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",

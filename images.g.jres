@@ -29,6 +29,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage2"
     },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzAAAAAAAwAzADAAAAADAAAAMAAAAAMAAAAwAAAAAAAAADAAAAAAAAAAMwAAAAAAAAAzAAAAAAAAADMAAAAAAAAAMwAAAAAAAwAzAAAAAAADMAMDMzMzMzAwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
     "image8": {
         "data": "hwQQABAAAAAAAAAAMwMAAAAAADMAMAMAAAAwAAAAAwAAMAMAAwAwAAAwADMDADAAAAAzAwMAAAMAADMAMwAAAwAAMzMzAwADAAAzMwMzAAMAADADMDMwAAAAMDAAAzAAAAAAMzMzAwAAAAAAMAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -38,11 +43,6 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9EuQv//4vL+3yRC/y/i8k7dJFIPL+LyTt0kUg//4vL+3yRC//Dv8r/RLkL/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage5"
-    },
-    "image7": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMzAAAAAAAwAzADAAAAADAAAAMAAAAAMAAAAwAAAAAAAAADAAAAAAAAAAMwAAAAAAAAAzAAAAAAAAADMAAAAAAAAAMwAAAAAAAwAzAAAAAAADMAMDMzMzMzAwAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage3"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

@@ -4,16 +4,19 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSpr
         mp.changePlayerStateBy(mp.playerSelector(mp.PlayerNumber.One), MultiplayerState.score, 1)
         if (mp.getPlayerState(mp.playerSelector(mp.PlayerNumber.One), MultiplayerState.score) == 1) {
             mySprite = sprites.create(assets.image`myImage4`, SpriteKind.Food)
+            mySprite.setPosition(randint(0, scene.screenWidth()), randint(0, scene.screenHeight()))
         } else if (mp.getPlayerState(mp.playerSelector(mp.PlayerNumber.One), MultiplayerState.score) == 2) {
             mySprite = sprites.create(assets.image`myImage`, SpriteKind.Food)
+            mySprite.setPosition(randint(0, scene.screenWidth()), randint(0, scene.screenHeight()))
         } else if (mp.getPlayerState(mp.playerSelector(mp.PlayerNumber.One), MultiplayerState.score) == 3) {
             mySprite = sprites.create(assets.image`myImage0`, SpriteKind.Food)
+            mySprite.setPosition(randint(0, scene.screenWidth()), randint(0, scene.screenHeight()))
         } else if (mp.getPlayerState(mp.playerSelector(mp.PlayerNumber.One), MultiplayerState.score) == 4) {
             mySprite = sprites.create(assets.image`myImage1`, SpriteKind.Food)
+            mySprite.setPosition(randint(0, scene.screenWidth()), randint(0, scene.screenHeight()))
         } else {
             game.gameOver(true)
         }
-        mySprite.setPosition(randint(0, scene.screenWidth()), randint(0, scene.screenHeight()))
     }
 })
 let mySprite2: Sprite = null

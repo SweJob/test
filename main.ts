@@ -1,5 +1,8 @@
-let list: number[] = []
 let Players = ["JonasB", "JonasW", "Lionel"]
-for (let value of list) {
-	
+// Loopa y
+for (let index = 0; index < 100; index++) {
+    // loopa x
+    for (let index = 0; index < 100; index++) {
+        tiles.setCurrentTilemap(tilemap`level2`)
+    }
 }

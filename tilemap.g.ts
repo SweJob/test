@@ -193,7 +193,7 @@ namespace myTiles {
             case "Rock":
             case "tile2":return tile2;
             case "transparency16":return transparency16;
-            case "myTile":
+            case "D":
             case "tile3":return tile3;
         }
         return null;

@@ -4,7 +4,7 @@ namespace myImages {
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "image1":
-            case "myImage":return img`
+            case "A":return img`
 . . . . . . 3 . . . . . . . . . 
 . . . . . 3 3 3 . . . . . . . . 
 . . . . . 3 . 3 3 . . . . . . . 
@@ -23,7 +23,7 @@ namespace myImages {
 . 3 3 . . . . . . . 3 3 . . . . 
 `;
             case "image2":
-            case "myImage0":return img`
+            case "B":return img`
 . 3 3 3 3 3 3 3 . . . . . . . . 
 . 3 . . . . . 3 . . . . . . . . 
 . 3 . . . . . 3 3 . . . . . . . 
@@ -42,7 +42,7 @@ namespace myImages {
 . 3 3 3 3 3 3 3 3 3 . . . . . . 
 `;
             case "image3":
-            case "myImage1":return img`
+            case "C":return img`
 . . . . . . 3 3 3 3 3 . . . . . 
 . . . . . 3 3 . . . 3 3 3 3 . . 
 . . . . 3 3 . . . . . . . . . . 
@@ -61,7 +61,7 @@ namespace myImages {
 . . . . . . 3 3 3 3 3 3 3 . . . 
 `;
             case "image4":
-            case "myImage2":return img`
+            case "J":return img`
 . . . . . . . . 3 3 3 3 3 3 . . 
 . . . . . . . . . . . . . 3 3 . 
 . . . . . . . . . . . . . . 3 . 
@@ -80,7 +80,7 @@ namespace myImages {
 . . . 3 3 3 3 3 3 3 . . . . . . 
 `;
             case "image5":
-            case "myImage3":return img`
+            case "O":return img`
 . . . 3 3 3 3 3 3 3 3 3 3 . . . 
 . . 3 3 . . . . . . . . 3 3 . . 
 . 3 3 . . . . . . . . . . 3 3 . 
@@ -99,7 +99,7 @@ namespace myImages {
 . . . . 3 3 3 3 3 3 3 3 . . . . 
 `;
             case "image6":
-            case "myImage4":return img`
+            case "N":return img`
 . . . . . . . . . . . . . 3 . . 
 . 3 . . . . . . . . . . . 3 . . 
 . 3 3 . . . . . . . . . . 3 . . 
@@ -118,7 +118,7 @@ namespace myImages {
 . 3 . . . . . . . . . . . . . . 
 `;
             case "image7":
-            case "myImage5":return img`
+            case "S":return img`
 . . . . 3 3 3 3 3 3 3 3 3 . . . 
 . . . 3 3 . . . . . . . 3 3 . . 
 . . . . 3 . . . . . . . . 3 . . 
@@ -137,7 +137,7 @@ namespace myImages {
 . . . 3 3 3 3 3 3 3 3 3 . . . . 
 `;
             case "image8":
-            case "myImage6":return img`
+            case "W":return img`
 . 3 . . . . . . . . . . . . . 3 
 . 3 . . . . . . . . . . . . . 3 
 . 3 . . . . . . . . . . . . . 3 
@@ -156,7 +156,7 @@ namespace myImages {
 . . . . . 3 . . . . . . 3 . . . 
 `;
             case "image9":
-            case "myImage7":return img`
+            case "L":return img`
 . 3 . . . . . . . . . . . . . . 
 . 3 . . . . . . . . . . . . . . 
 . 3 . . . . . . . . . . . . . . 
@@ -175,7 +175,7 @@ namespace myImages {
 . 3 3 3 3 3 3 3 3 3 3 3 3 . . . 
 `;
             case "image10":
-            case "myImage8":return img`
+            case "I":return img`
 . . . . 3 3 3 3 3 3 3 . . . . . 
 . . . . . . . 3 . . . . . . . . 
 . . . . . . . 3 . . . . . . . . 
@@ -194,7 +194,7 @@ namespace myImages {
 . . . . 3 3 3 3 3 3 3 . . . . . 
 `;
             case "image11":
-            case "myImage9":return img`
+            case "E":return img`
 . 3 3 3 3 3 3 3 3 3 3 . . . . . 
 . 3 . . . . . . . . . . . . . . 
 . 3 . . . . . . . . . . . . . . 

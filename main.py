@@ -1,5 +1,5 @@
-let Player1 = ""
+let value = ""
 tiles.setCurrentTilemap(tilemap`bana`)
 for (let index = 0; index < 3; index++) {
-    Player1 = game.askForString("", 8)
+    value = game.askForString("", 8)
 }
